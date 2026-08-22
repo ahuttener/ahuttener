@@ -1,4 +1,4 @@
-<img align="right" width="140" src="https://github.com/ahuttener.png" alt="CyberSecInfo" />
+<img src="./assets/banner.jpg" alt="AHUTTENER — Building, Securing, Automating" width="100%" />
 
 # 👨‍💻 CyberSecInfo
 
@@ -15,13 +15,18 @@ security and digital forensics.
 
 ---
 
-## 🧰 Languages and Technologies
+## 🛡️ What I work with
+
+The banner above covers the areas I work in: cybersecurity (blue team / red team), cloud security
+on AWS and Azure, penetration testing on web, network and API, digital forensics, and SIEM and
+monitoring.
+
+## 🧰 What shows up in this account's code
 
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,php,laravel,flutter,dart,python,docker,git,bash&theme=dark" alt="HTML, CSS, JavaScript, TypeScript, React, PHP, Laravel, Flutter, Dart, Python, Docker, Git, Bash" />
 
-Everything above shows up in this account's repositories: TypeScript and React/Expo in the mobile
-apps, PHP in the Keymate and BRDeals APIs, Dart/Flutter in the BRDeals app, Python and Perl in the
-security labs, Docker and Shell in the marketplace.
+TypeScript and React/Expo in the mobile apps, PHP in the Keymate and BRDeals APIs, Dart/Flutter in
+the BRDeals app, Python and Perl in the security labs, Docker and Shell in the marketplace.
 
 ---
 
@@ -49,6 +54,7 @@ security labs, Docker and Shell in the marketplace.
 
 | Repository | What it is |
 | --- | --- |
+| [radar-rider](https://github.com/ahuttener/radar-rider) | RadarRider — real-time hazard alerts for riders (Next.js, Prisma, PWA with push) |
 | [go2ireland-site](https://github.com/ahuttener/go2ireland-site) | Static site for go2ireland.site (Keymate Ireland) |
 | [mykeymate-site](https://github.com/ahuttener/mykeymate-site) | Static site for mykeymate.com (HTML/CSS/JS, no backend) |
 | [brdeals_novafase](https://github.com/ahuttener/brdeals_novafase) | BRDeals, new phase |
