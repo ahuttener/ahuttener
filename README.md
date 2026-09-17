@@ -50,6 +50,8 @@ the BRDeals app, Python and Perl in the security labs, Docker and Shell in the m
 
 ## 📌 Public projects
 
+> ⭐ **Featured — [SOC Threat Detection Dashboard](https://github.com/ahuttener/soc-threat-detection-dashboard):** a live blue-team dashboard that scores an event stream against **Wazuh** rules and maps every alert to **MITRE ATT&CK**. Zero-dependency, runs in the browser.
+
 ### Products
 
 | Repository | What it is |
@@ -63,8 +65,13 @@ the BRDeals app, Python and Perl in the security labs, Docker and Shell in the m
 
 | Repository | What it is |
 | --- | --- |
+| [soc-threat-detection-dashboard](https://github.com/ahuttener/soc-threat-detection-dashboard) | Blue-team SOC dashboard — real-time threat detection over Wazuh rules, mapped to MITRE ATT&CK |
 | [Cyber-Security-Portfolio](https://github.com/ahuttener/Cyber-Security-Portfolio) | Offensive security lab: Python scripting and API vulnerability analysis (IDOR) |
 | [Network-security-policy-audit](https://github.com/ahuttener/Network-security-policy-audit) | Automated network policy auditing and change management framework for enterprise security compliance |
 | [Luxury-Phishing-PoC](https://github.com/ahuttener/Luxury-Phishing-PoC) | Proof of concept on high-ticket phishing, social engineering and local data interception, for educational purposes |
 | [Digital-Forensics-Lab](https://github.com/ahuttener/Digital-Forensics-Lab) | Practical exercises on Android and iOS forensics using Linux tools |
 | [forensics-steganography-lab](https://github.com/ahuttener/forensics-steganography-lab) | Digital forensics case study: data embedding and password recovery with Steghide and Stegseek |
+
+---
+
+<p align="center">🌐 <a href="https://cybersecinfo.com">cybersecinfo.com</a> · 🛡️ Building, securing, automating.</p>
