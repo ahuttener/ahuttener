@@ -1,17 +1,22 @@
 <img src="./assets/banner.jpg" alt="AHUTTENER — Building, Securing, Automating" width="100%" />
 
-# 👨‍💻 CyberSecInfo
+# 👋 Hi, I'm Adriano
 
-`FullStack Developer` `Offensive Security`
+`Penetration Tester` `SOC Analyst` `Security-focused Developer`
 
-I build and maintain three products of my own, from the backend to the mobile app: **BRDeals**
-(marketplace), **Keymate / go2ireland** (room-finding site for Ireland, with a PHP API and a mobile
-app) and **RadarRider** (alerts for riders). Alongside that, I keep public labs on offensive
-security and digital forensics.
+I'm a security-focused developer moving deeper into **offensive security** and **blue-team operations**. I build and run three products of my own end-to-end — **BRDeals** (marketplace), **Keymate / go2ireland** (room-finding for Ireland, PHP API + mobile app) and **RadarRider** (rider alerts) — and I turn what I learn into hands-on security work: a live **SOC detection dashboard** on Wazuh + MITRE ATT&CK, a privacy-preserving **password-breach checker**, and public labs across penetration testing and digital forensics.
+
+I'm completing an **MSc in Cybersecurity at the National College of Ireland (NCI)**, and I'm open to **Penetration Tester** and **SOC Analyst** roles in Ireland.
 
 [![Followers](https://img.shields.io/github/followers/ahuttener?label=FOLLOWERS&style=for-the-badge&color=1d4fd0&labelColor=0b1020&logo=github)](https://github.com/ahuttener?tab=followers)
 [![Stars](https://img.shields.io/github/stars/ahuttener?label=STARS&style=for-the-badge&color=e3b341&labelColor=0b1020&logo=github)](https://github.com/ahuttener?tab=repositories)
 [![Public repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/ahuttener&query=$.public_repos&label=PUBLIC%20REPOS&style=for-the-badge&color=2ea043&labelColor=0b1020&logo=github)](https://github.com/ahuttener?tab=repositories)
+
+## 🎯 Currently focused on
+
+- Completing my **MSc in Cybersecurity** at NCI (Dublin)
+- **Detection engineering** — Wazuh, SIEM and MITRE ATT&CK mapping
+- **Penetration testing** on web, network and API, documented as reproducible labs
 
 ---
 
@@ -96,4 +101,11 @@ the BRDeals app, Python and Perl in the security labs, Docker and Shell in the m
 
 ---
 
-<p align="center">🌐 <a href="https://cybersecinfo.com">cybersecinfo.com</a> · 🛡️ Building, securing, automating.</p>
+## 📫 Get in touch
+
+- 💼 LinkedIn — [in/adriano-huttener](https://www.linkedin.com/in/adriano-huttener/)
+- 🌐 Website — [cybersecinfo.com](https://cybersecinfo.com)
+
+📍 Kildare, Ireland · open to **Penetration Tester** / **SOC Analyst** roles
+
+<p align="center"><sub>🛡️ Building, securing, automating.</sub></p>
