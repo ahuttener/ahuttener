@@ -52,15 +52,6 @@ the BRDeals app, Python and Perl in the security labs, Docker and Shell in the m
 
 > ⭐ **Featured — [SOC Threat Detection Dashboard](https://github.com/ahuttener/soc-threat-detection-dashboard):** a live blue-team dashboard that scores an event stream against **Wazuh** rules and maps every alert to **MITRE ATT&CK**. Zero-dependency, runs in the browser.
 
-### Products
-
-| Repository | What it is |
-| --- | --- |
-| [radar-rider](https://github.com/ahuttener/radar-rider) | RadarRider — real-time hazard alerts for riders (Next.js, Prisma, PWA with push) |
-| [go2ireland-site](https://github.com/ahuttener/go2ireland-site) | Static site for go2ireland.site (Keymate Ireland) |
-| [mykeymate-site](https://github.com/ahuttener/mykeymate-site) | Static site for mykeymate.com (HTML/CSS/JS, no backend) |
-| [brdeals_novafase](https://github.com/ahuttener/brdeals_novafase) | BRDeals, new phase |
-
 ### Security and forensics
 
 | Repository | What it is |
