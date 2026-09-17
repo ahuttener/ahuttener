@@ -66,6 +66,7 @@ the BRDeals app, Python and Perl in the security labs, Docker and Shell in the m
 | Repository | What it is |
 | --- | --- |
 | [soc-threat-detection-dashboard](https://github.com/ahuttener/soc-threat-detection-dashboard) | Blue-team SOC dashboard — real-time threat detection over Wazuh rules, mapped to MITRE ATT&CK |
+| [password-strength-breach-analyzer](https://github.com/ahuttener/password-strength-breach-analyzer) | Password strength (entropy + patterns) and Have I Been Pwned breach check via k-anonymity — fully client-side |
 | [Cyber-Security-Portfolio](https://github.com/ahuttener/Cyber-Security-Portfolio) | Offensive security lab: Python scripting and API vulnerability analysis (IDOR) |
 | [Network-security-policy-audit](https://github.com/ahuttener/Network-security-policy-audit) | Automated network policy auditing and change management framework for enterprise security compliance |
 | [Luxury-Phishing-PoC](https://github.com/ahuttener/Luxury-Phishing-PoC) | Proof of concept on high-ticket phishing, social engineering and local data interception, for educational purposes |
