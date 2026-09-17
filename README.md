@@ -52,17 +52,47 @@ the BRDeals app, Python and Perl in the security labs, Docker and Shell in the m
 
 > ⭐ **Featured — [SOC Threat Detection Dashboard](https://github.com/ahuttener/soc-threat-detection-dashboard):** a live blue-team dashboard that scores an event stream against **Wazuh** rules and maps every alert to **MITRE ATT&CK**. Zero-dependency, runs in the browser.
 
-### Security and forensics
+### 🔬 Labs & tools
 
-| Repository | What it is |
-| --- | --- |
-| [soc-threat-detection-dashboard](https://github.com/ahuttener/soc-threat-detection-dashboard) | Blue-team SOC dashboard — real-time threat detection over Wazuh rules, mapped to MITRE ATT&CK |
-| [password-strength-breach-analyzer](https://github.com/ahuttener/password-strength-breach-analyzer) | Password strength (entropy + patterns) and Have I Been Pwned breach check via k-anonymity — fully client-side |
-| [Cyber-Security-Portfolio](https://github.com/ahuttener/Cyber-Security-Portfolio) | Offensive security lab: Python scripting and API vulnerability analysis (IDOR) |
-| [Network-security-policy-audit](https://github.com/ahuttener/Network-security-policy-audit) | Automated network policy auditing and change management framework for enterprise security compliance |
-| [Luxury-Phishing-PoC](https://github.com/ahuttener/Luxury-Phishing-PoC) | Proof of concept on high-ticket phishing, social engineering and local data interception, for educational purposes |
-| [Digital-Forensics-Lab](https://github.com/ahuttener/Digital-Forensics-Lab) | Practical exercises on Android and iOS forensics using Linux tools |
-| [forensics-steganography-lab](https://github.com/ahuttener/forensics-steganography-lab) | Digital forensics case study: data embedding and password recovery with Steghide and Stegseek |
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/ahuttener/soc-threat-detection-dashboard"><img src="assets/thumbs/soc-threat-detection-dashboard.png" width="100%" alt="SOC Threat Detection Dashboard"></a>
+      <p><b><a href="https://github.com/ahuttener/soc-threat-detection-dashboard">SOC Threat Detection Dashboard</a></b><br><sub>Live blue-team detection over Wazuh rules + MITRE ATT&CK</sub></p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/ahuttener/password-strength-breach-analyzer"><img src="assets/thumbs/password-strength-breach-analyzer.png" width="100%" alt="Password Strength & Breach Analyzer"></a>
+      <p><b><a href="https://github.com/ahuttener/password-strength-breach-analyzer">Password Strength &amp; Breach Analyzer</a></b><br><sub>Strength + HIBP breach check via k-anonymity (client-side)</sub></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/ahuttener/Cyber-Security-Portfolio"><img src="assets/thumbs/Cyber-Security-Portfolio.png" width="100%" alt="Cyber Security Portfolio"></a>
+      <p><b><a href="https://github.com/ahuttener/Cyber-Security-Portfolio">Cyber-Security-Portfolio</a></b><br><sub>Offensive-security lab — API exploitation (IDOR/BOLA) &amp; Python tooling</sub></p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/ahuttener/Network-security-policy-audit"><img src="assets/thumbs/Network-security-policy-audit.png" width="100%" alt="Network Security Policy Audit"></a>
+      <p><b><a href="https://github.com/ahuttener/Network-security-policy-audit">Network-security-policy-audit</a></b><br><sub>Firewall-policy auditor (NIST/CIS) with a CI gate</sub></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/ahuttener/Luxury-Phishing-PoC"><img src="assets/thumbs/Luxury-Phishing-PoC.png" width="100%" alt="Luxury Phishing PoC"></a>
+      <p><b><a href="https://github.com/ahuttener/Luxury-Phishing-PoC">Luxury-Phishing-PoC</a></b><br><sub>Social-engineering awareness PoC — with the defensive breakdown</sub></p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/ahuttener/Digital-Forensics-Lab"><img src="assets/thumbs/Digital-Forensics-Lab.png" width="100%" alt="Digital Forensics Lab"></a>
+      <p><b><a href="https://github.com/ahuttener/Digital-Forensics-Lab">Digital-Forensics-Lab</a></b><br><sub>Android &amp; iOS mobile forensics (iLEAPP, Hashcat)</sub></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/ahuttener/forensics-steganography-lab"><img src="assets/thumbs/forensics-steganography-lab.png" width="100%" alt="Forensics Steganography Lab"></a>
+      <p><b><a href="https://github.com/ahuttener/forensics-steganography-lab">forensics-steganography-lab</a></b><br><sub>Steganography — hide &amp; recover data with Steghide/Stegseek</sub></p>
+    </td>
+    <td width="50%" valign="top"></td>
+  </tr>
+</table>
 
 ---
 
