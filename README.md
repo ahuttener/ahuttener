@@ -8,6 +8,8 @@ I'm a security-focused developer moving deeper into **offensive security** and *
 
 I'm completing an **MSc in Cybersecurity at the National College of Ireland (NCI)**, and I'm open to **Penetration Tester** and **SOC Analyst** roles in Ireland.
 
+<a href="https://www.ncirl.ie/"><img src="assets/nci.png" alt="MSc in Cybersecurity — National College of Ireland" height="88"></a>
+
 [![Followers](https://img.shields.io/github/followers/ahuttener?label=FOLLOWERS&style=for-the-badge&color=1d4fd0&labelColor=0b1020&logo=github)](https://github.com/ahuttener?tab=followers)
 [![Stars](https://img.shields.io/github/stars/ahuttener?label=STARS&style=for-the-badge&color=e3b341&labelColor=0b1020&logo=github)](https://github.com/ahuttener?tab=repositories)
 [![Public repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/ahuttener&query=$.public_repos&label=PUBLIC%20REPOS&style=for-the-badge&color=2ea043&labelColor=0b1020&logo=github)](https://github.com/ahuttener?tab=repositories)
