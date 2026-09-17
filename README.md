@@ -4,7 +4,7 @@
 
 `Penetration Tester` `SOC Analyst` `Security-focused Developer`
 
-I'm a security-focused developer moving deeper into **offensive security** and **blue-team operations**. I build and run three products of my own end-to-end — **BRDeals** (marketplace), **Keymate / go2ireland** (room-finding for Ireland, PHP API + mobile app) and **RadarRider** (rider alerts) — and I turn what I learn into hands-on security work: a live **SOC detection dashboard** on Wazuh + MITRE ATT&CK, a privacy-preserving **password-breach checker**, and public labs across penetration testing and digital forensics.
+I'm a security-focused developer moving deeper into **offensive security** and **blue-team operations**. I build and run three products of my own end-to-end — **BRDeals** (marketplace), **Keymate** (room-finding for Ireland, PHP API + mobile app) and **RadarRider** (rider alerts) — and I turn what I learn into hands-on security work: a live **SOC detection dashboard** on Wazuh + MITRE ATT&CK, a privacy-preserving **password-breach checker**, and public labs across penetration testing and digital forensics.
 
 I'm completing an **MSc in Cybersecurity at the National College of Ireland (NCI)**, and I'm open to **Penetration Tester** and **SOC Analyst** roles in Ireland.
 
