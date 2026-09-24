@@ -74,8 +74,8 @@ the BRDeals app, Python and Perl in the security labs, Docker and Shell in the m
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/ahuttener/Cyber-Security-Portfolio"><img src="assets/thumbs/Cyber-Security-Portfolio.png" width="100%" alt="Cyber Security Portfolio"></a>
-      <p><b><a href="https://github.com/ahuttener/Cyber-Security-Portfolio">Cyber-Security-Portfolio</a></b><br><sub>Offensive-security lab — API exploitation (IDOR/BOLA) &amp; Python tooling</sub></p>
+      <a href="https://github.com/ahuttener/offensive-security-labs"><img src="assets/thumbs/offensive-security-labs.png" width="100%" alt="Offensive Security Labs"></a>
+      <p><b><a href="https://github.com/ahuttener/offensive-security-labs">offensive-security-labs</a></b><br><sub>Offensive-security labs — API exploitation (IDOR/BOLA) &amp; Python tooling</sub></p>
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/ahuttener/Network-security-policy-audit"><img src="assets/thumbs/Network-security-policy-audit.png" width="100%" alt="Network Security Policy Audit"></a>
