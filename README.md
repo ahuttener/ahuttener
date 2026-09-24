@@ -102,6 +102,13 @@ the BRDeals app, Python and Perl in the security labs, Docker and Shell in the m
       <p><b><a href="https://github.com/ahuttener/KeyMate-Scam-Awareness">KeyMate-Scam-Awareness</a></b><br><sub>Rental-scam awareness drill — live at <a href="https://mykeymate.com/scam.html">mykeymate.com/scam.html</a></sub></p>
     </td>
   </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/ahuttener/phishing-email-analyzer"><img src="assets/thumbs/phishing-email-analyzer.png" width="100%" alt="Phishing Email Analyzer"></a>
+      <p><b><a href="https://github.com/ahuttener/phishing-email-analyzer">Phishing Email Analyzer</a></b><br><sub>Scored phishing triage: SPF/DKIM/DMARC, lookalikes, deceptive links — <a href="https://ahuttener.github.io/phishing-email-analyzer/">live demo</a></sub></p>
+    </td>
+    <td width="50%" valign="top"></td>
+  </tr>
 </table>
 
 ---
