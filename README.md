@@ -97,7 +97,10 @@ the BRDeals app, Python and Perl in the security labs, Docker and Shell in the m
       <a href="https://github.com/ahuttener/forensics-steganography-lab"><img src="assets/thumbs/forensics-steganography-lab.png" width="100%" alt="Forensics Steganography Lab"></a>
       <p><b><a href="https://github.com/ahuttener/forensics-steganography-lab">forensics-steganography-lab</a></b><br><sub>Steganography — hide &amp; recover data with Steghide/Stegseek</sub></p>
     </td>
-    <td width="50%" valign="top"></td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/ahuttener/KeyMate-Scam-Awareness"><img src="assets/thumbs/KeyMate-Scam-Awareness.png" width="100%" alt="KeyMate Scam Awareness"></a>
+      <p><b><a href="https://github.com/ahuttener/KeyMate-Scam-Awareness">KeyMate-Scam-Awareness</a></b><br><sub>Rental-scam awareness drill — live at <a href="https://mykeymate.com/scam.html">mykeymate.com/scam.html</a></sub></p>
+    </td>
   </tr>
 </table>
 
