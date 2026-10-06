@@ -107,7 +107,10 @@ the BRDeals app, Python and Perl in the security labs, Docker and Shell in the m
       <a href="https://github.com/ahuttener/phishing-email-analyzer"><img src="assets/thumbs/phishing-email-analyzer.png" width="100%" alt="Phishing Email Analyzer"></a>
       <p><b><a href="https://github.com/ahuttener/phishing-email-analyzer">Phishing Email Analyzer</a></b><br><sub>Scored phishing triage: SPF/DKIM/DMARC, lookalikes, deceptive links — <a href="https://ahuttener.github.io/phishing-email-analyzer/">live demo</a></sub></p>
     </td>
-    <td width="50%" valign="top"></td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/ahuttener/phishing-awareness-lab"><img src="assets/thumbs/phishing-awareness-lab.png" width="100%" alt="Phishing Awareness Lab"></a>
+      <p><b><a href="https://github.com/ahuttener/phishing-awareness-lab">phishing-awareness-lab</a></b><br><sub>Self-targeted Gophish lab with defensive SPF/DKIM/DMARC analysis</sub></p>
+    </td>
   </tr>
 </table>
 
