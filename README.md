@@ -64,55 +64,59 @@ the BRDeals app, Python and Perl in the security labs, Docker and Shell in the m
 <table>
   <tr>
     <td width="50%" valign="top">
+      <a href="https://github.com/ahuttener/GRC-Audit"><img src="assets/thumbs/GRC-Audit.png" width="100%" alt="GRC Audit — Governance, Risk and Compliance"></a>
+      <p><b><a href="https://github.com/ahuttener/GRC-Audit">GRC Audit</a></b><br><sub>AI GRC auditor: incident → grounded NIST CSF 2.0 / ISO 27001 / SOC 2 / GDPR / CCPA / HIPAA mapping — <a href="https://cybersecinfo.com/grcaudit/">live demo</a></sub></p>
+    </td>
+    <td width="50%" valign="top">
       <a href="https://github.com/ahuttener/identity-governance-audit-framework"><img src="assets/thumbs/identity-governance-audit-framework.png" width="100%" alt="Identity Governance Audit Framework"></a>
       <p><b><a href="https://github.com/ahuttener/identity-governance-audit-framework">Identity Governance Audit Framework</a></b><br><sub>Simulated SOC 2 / ISO 27001 audit of IAM controls — GRC case study</sub></p>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/ahuttener/soc-threat-detection-dashboard"><img src="assets/thumbs/soc-threat-detection-dashboard.png" width="100%" alt="SOC Threat Detection Dashboard"></a>
       <p><b><a href="https://github.com/ahuttener/soc-threat-detection-dashboard">SOC Threat Detection Dashboard</a></b><br><sub>Live blue-team detection over Wazuh rules + MITRE ATT&CK</sub></p>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/ahuttener/password-strength-breach-analyzer"><img src="assets/thumbs/password-strength-breach-analyzer.png" width="100%" alt="Password Strength & Breach Analyzer"></a>
       <p><b><a href="https://github.com/ahuttener/password-strength-breach-analyzer">Password Strength &amp; Breach Analyzer</a></b><br><sub>Strength + HIBP breach check via k-anonymity (client-side)</sub></p>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/ahuttener/offensive-security-labs"><img src="assets/thumbs/offensive-security-labs.png" width="100%" alt="Offensive Security Labs"></a>
       <p><b><a href="https://github.com/ahuttener/offensive-security-labs">offensive-security-labs</a></b><br><sub>Offensive-security labs — API exploitation (IDOR/BOLA) &amp; Python tooling</sub></p>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/ahuttener/Network-security-policy-audit"><img src="assets/thumbs/Network-security-policy-audit.png" width="100%" alt="Network Security Policy Audit"></a>
       <p><b><a href="https://github.com/ahuttener/Network-security-policy-audit">Network-security-policy-audit</a></b><br><sub>Firewall-policy auditor (NIST/CIS) with a CI gate</sub></p>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/ahuttener/Luxury-Phishing-PoC"><img src="assets/thumbs/Luxury-Phishing-PoC.png" width="100%" alt="Luxury Phishing PoC"></a>
       <p><b><a href="https://github.com/ahuttener/Luxury-Phishing-PoC">Luxury-Phishing-PoC</a></b><br><sub>Social-engineering awareness PoC — with the defensive breakdown</sub></p>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/ahuttener/Digital-Forensics-Lab"><img src="assets/thumbs/Digital-Forensics-Lab.png" width="100%" alt="Digital Forensics Lab"></a>
       <p><b><a href="https://github.com/ahuttener/Digital-Forensics-Lab">Digital-Forensics-Lab</a></b><br><sub>Android &amp; iOS mobile forensics (iLEAPP, Hashcat)</sub></p>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/ahuttener/forensics-steganography-lab"><img src="assets/thumbs/forensics-steganography-lab.png" width="100%" alt="Forensics Steganography Lab"></a>
       <p><b><a href="https://github.com/ahuttener/forensics-steganography-lab">forensics-steganography-lab</a></b><br><sub>Steganography — hide &amp; recover data with Steghide/Stegseek</sub></p>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/ahuttener/KeyMate-Scam-Awareness"><img src="assets/thumbs/KeyMate-Scam-Awareness.png" width="100%" alt="KeyMate Scam Awareness"></a>
       <p><b><a href="https://github.com/ahuttener/KeyMate-Scam-Awareness">KeyMate-Scam-Awareness</a></b><br><sub>Rental-scam awareness drill — live at <a href="https://mykeymate.com/scam.html">mykeymate.com/scam.html</a></sub></p>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/ahuttener/phishing-email-analyzer"><img src="assets/thumbs/phishing-email-analyzer.png" width="100%" alt="Phishing Email Analyzer"></a>
       <p><b><a href="https://github.com/ahuttener/phishing-email-analyzer">Phishing Email Analyzer</a></b><br><sub>Scored phishing triage: SPF/DKIM/DMARC, lookalikes, deceptive links — <a href="https://ahuttener.github.io/phishing-email-analyzer/">live demo</a></sub></p>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/ahuttener/phishing-awareness-lab"><img src="assets/thumbs/phishing-awareness-lab.png" width="100%" alt="Phishing Awareness Lab"></a>
       <p><b><a href="https://github.com/ahuttener/phishing-awareness-lab">phishing-awareness-lab</a></b><br><sub>Self-targeted Gophish lab with defensive SPF/DKIM/DMARC analysis</sub></p>
