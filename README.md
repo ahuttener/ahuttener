@@ -78,8 +78,8 @@ the BRDeals app, Python and Perl in the security labs, Docker and Shell in the m
       <p><b><a href="https://github.com/ahuttener/soc-threat-detection-dashboard">SOC Threat Detection Dashboard</a></b><br><sub>Live blue-team detection over Wazuh rules + MITRE ATT&CK</sub></p>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/ahuttener/password-strength-breach-analyzer"><img src="assets/thumbs/password-strength-breach-analyzer.png" width="100%" alt="Password Strength & Breach Analyzer"></a>
-      <p><b><a href="https://github.com/ahuttener/password-strength-breach-analyzer">Password Strength &amp; Breach Analyzer</a></b><br><sub>Strength + HIBP breach check via k-anonymity (client-side)</sub></p>
+      <a href="https://github.com/ahuttener/pc-check"><img src="assets/thumbs/pc-check.png" width="100%" alt="PC Check — browser and connection security check"></a>
+      <p><b><a href="https://github.com/ahuttener/pc-check">PC Check</a></b><br><sub>Browser, TLS 1.3 / ECH / post-quantum, DNS-leak and k-anonymity password checks in the browser — <a href="https://cybersecinfo.com/pccheck/">live demo</a></sub></p>
     </td>
   </tr>
   <tr>
@@ -121,6 +121,13 @@ the BRDeals app, Python and Perl in the security labs, Docker and Shell in the m
       <a href="https://github.com/ahuttener/phishing-awareness-lab"><img src="assets/thumbs/phishing-awareness-lab.png" width="100%" alt="Phishing Awareness Lab"></a>
       <p><b><a href="https://github.com/ahuttener/phishing-awareness-lab">phishing-awareness-lab</a></b><br><sub>Self-targeted Gophish lab with defensive SPF/DKIM/DMARC analysis</sub></p>
     </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/ahuttener/password-strength-breach-analyzer"><img src="assets/thumbs/password-strength-breach-analyzer.png" width="100%" alt="Password Strength & Breach Analyzer"></a>
+      <p><b><a href="https://github.com/ahuttener/password-strength-breach-analyzer">Password Strength &amp; Breach Analyzer</a></b><br><sub>Strength + HIBP breach check via k-anonymity (client-side)</sub></p>
+    </td>
+    <td width="50%" valign="top"></td>
   </tr>
 </table>
 
