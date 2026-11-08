@@ -128,8 +128,8 @@ the BRDeals app, Python and Perl in the security labs, Docker and Shell in the m
       <p><b><a href="https://github.com/ahuttener/password-strength-breach-analyzer">Password Strength &amp; Breach Analyzer</a></b><br><sub>Strength + HIBP breach check via k-anonymity (client-side)</sub></p>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/ahuttener/kyc-iam-simulator"><img src="assets/thumbs/kyc-iam-simulator.png" width="100%" alt="KYC / IAM Simulator — Know Your Customer and Identity Access Management"></a>
-      <p><b><a href="https://github.com/ahuttener/kyc-iam-simulator">KYC / IAM Simulator</a></b><br><sub>KYC onboarding: sanctions &amp; PEP screening, CDD/EDD, ongoing reviews, QA and RBAC + ABAC, mapped to Irish &amp; EU AML law — <a href="https://cybersecinfo.com/kyc/">live demo</a></sub></p>
+      <a href="https://github.com/ahuttener/kyc-aml-simulator"><img src="assets/thumbs/kyc-iam-simulator.png" width="100%" alt="KYC / AML Simulator — Know Your Customer and Anti-Money Laundering"></a>
+      <p><b><a href="https://github.com/ahuttener/kyc-aml-simulator">KYC / AML Simulator</a></b><br><sub>KYC onboarding: sanctions &amp; PEP screening, CDD/EDD, ongoing reviews, QA and RBAC + ABAC, mapped to Irish &amp; EU AML law — <a href="https://cybersecinfo.com/kyc/">live demo</a></sub></p>
     </td>
   </tr>
 </table>
